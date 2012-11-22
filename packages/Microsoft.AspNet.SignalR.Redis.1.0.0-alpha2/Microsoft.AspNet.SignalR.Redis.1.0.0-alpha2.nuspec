@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.AspNet.SignalR.Redis</id>
+    <version>1.0.0-alpha2</version>
+    <title>Microsoft ASP.NET SignalR Redis</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/aspnet_fall_2012_update_prerelease_enu.htm</licenseUrl>
+    <projectUrl>http://www.asp.net/signalR</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Redis message bus implementation for SignalR</description>
+    <language>en-US</language>
+    <tags>Microsoft AspNet SignalR AspNetSignalR Redis</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.SignalR.Core" version="1.0.0-alpha2" />
+      <dependency id="BookSleeve" version="1.2.0.2" />
+    </dependencies>
+  </metadata>
+</package>

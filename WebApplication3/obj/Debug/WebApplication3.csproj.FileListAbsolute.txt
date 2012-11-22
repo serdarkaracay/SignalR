@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2012\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll
+c:\users\administrator\documents\visual studio 2012\Projects\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WebApplication3\WebApplication3\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\administrator\documents\visual studio 2012\Projects\WebApplication3\WebApplication3\bin\Microsoft.AspNet.SignalR.Hosting.AspNet.dll
+c:\users\administrator\documents\visual studio 2012\Projects\WebApplication3\WebApplication3\bin\Microsoft.AspNet.SignalR.Hosting.Common.dll
+c:\users\administrator\documents\visual studio 2012\Projects\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2012\Projects\WebApplication3\WebApplication3\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\administrator\documents\visual studio 2012\Projects\WebApplication3\WebApplication3\bin\Microsoft.AspNet.SignalR.Hosting.AspNet.xml
+c:\users\administrator\documents\visual studio 2012\Projects\WebApplication3\WebApplication3\bin\Microsoft.AspNet.SignalR.Hosting.Common.xml
+c:\users\administrator\documents\visual studio 2012\Projects\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2012\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+c:\users\administrator\documents\visual studio 2012\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
